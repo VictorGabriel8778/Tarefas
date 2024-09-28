@@ -1,1 +1,3 @@
 # Tarefas
+
+require libray PySimpleGUI
